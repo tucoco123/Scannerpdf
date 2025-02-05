@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Scannerpdf</string>
+    <string name="title">Scanner Document</string>
+    <string name="btn_mode1">Mode 1\n "Basic mode (cropping, rotating, page sorting, etc.)"</string>
+    <string name="btn_mode2">Mode 2 \n "Add image filters (grayscale, auto image enhancement, etc.) to basic mode"</string>
+    <string name="btn_mode3">Mode 3\nAdds machine learning image cleanup features (e.g. removing smudges and fingers) to Mode 2.</string>
+    <string name="txt_node_mode3">Mode 3 Description: In this mode, major new features are automatically added through Google Play services updates. The other two modes will keep the current feature set and receive only minor fixes.</string>
+    <string name="btn_open_pdf">Open pdf</string>
+    <string name="txt_pdf_size">PDF size: Not available</string>
 </resources>

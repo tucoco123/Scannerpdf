@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scannerpdf</string>
+    <string name="title">文件掃描器</string>
+    <string name="btn_mode1">模式 1\n "基本模式（裁剪、旋轉、頁面排序等）"</string>
+    <string name="btn_mode2">模式 2 \n "在基本模式上添加圖片濾鏡（灰階、自動圖像增強等）"</string>
+    <string name="btn_mode3">模式 3\n"在模式 2 的基礎上新增機器學習影像清理功能（如移除污漬和手指）"</string>
+    <string name="txt_node_mode3">模式 3 說明：此模式透過 Google Play 服務更新自動新增主要新功能。其他兩種模式則保持當前功能集，僅接收小型修正。</string>
+    <string name="btn_open_pdf">開啟 PDF</string>
+    <string name="txt_pdf_size">PDF 大小：無可用檔案</string>
+</resources>

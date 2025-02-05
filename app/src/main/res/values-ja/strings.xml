@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scannerpdf</string>
+    <string name="title">スキャナードキュメント</string>
+    <string name="btn_mode1">モード 1\n "基本モード（トリミング、回転、ページ並べ替えなど）"</string>
+    <string name="btn_mode2">モード 2 \n "基本モードに画像フィルター（グレースケール、自動画像強調など）を追加"</string>
+    <string name="btn_mode3">モード 3\n"モード 2 に機械学習による画像クリーンアップ機能（汚れや指の除去など）を追加"</string>
+    <string name="txt_node_mode3">モード 3 の説明：このモードでは、Google Play サービスのアップデートを通じて新機能が自動的に追加されます。他の 2 つのモードは現在の機能セットを維持し、小規模な修正のみを受け取ります。</string>
+    <string name="btn_open_pdf">PDF を開く</string>
+    <string name="txt_pdf_size">PDF サイズ：利用不可</string>
+</resources>
